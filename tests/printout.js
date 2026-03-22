@@ -19,7 +19,7 @@ console.log(colours);
 
 // Function
 function statusRes(name, result){
-    console.log('The status of',name, 'is:',result);
+    console.log('The status of ',name, 'is: ',result);
 }
 statusRes('Kumaran','pass');
 
